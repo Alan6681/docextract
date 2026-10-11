@@ -1,0 +1,72 @@
+samples:
+  - id: scan_01
+    file: samples_private/scan_01.pdf
+    type: scanned_pdf
+    pages: [3]
+    has: [text]
+
+  - id: scan_02
+    file: samples_private/scan_02.pdf
+    type: scanned_pdf
+    pages: [3]
+    has: [text, table]
+
+  - id: scan_03
+    file: samples_private/scan_03.pdf
+    type: scanned_pdf
+    pages: [3]
+    has: [text, table]
+
+  - id: photo_01
+    file: samples_private/photo_01.jpg
+    type: textbook_photo
+    pages: [1]
+    has: [text, diagram]
+
+  - id: photo_02
+    file: samples_private/photo_02.jpg
+    type: textbook_photo
+    pages: [1]
+    has: [text, diagram, equation]
+
+  - id: photo_03
+    file: samples_private/photo_03.jpg
+    type: textbook_photo
+    pages: [1]
+    has: [text, diagram, equation]
+
+  - id: photo_04
+    file: samples_private/photo_04.jpg
+    type: textbook_photo
+    pages: [1]
+    has: [text, diagram, equation]
+
+  - id: photo_05
+    file: samples_private/photo_05.jpg
+    type: textbook_photo
+    pages: [1]
+    has: [text, diagram, equation]
+
+  - id: photo_06
+    file: samples_private/photo_06.jpg
+    type: textbook_photo
+    pages: [1]
+    has: [text, diagram]
+
+  - id: hand_01
+    file: samples_private/hand_01.jpg
+    type: handwritten_photo
+    pages: [1]
+    has: [diagram]
+
+  - id: hand_02
+    file: samples_private/hand_02.jpg
+    type: handwritten_photo
+    pages: [1]
+    has: [text, diagram]
+
+  - id: hand_03
+    file: samples_private/hand_03.jpg
+    type: handwritten_photo
+    pages: [1]
+    has: [text, diagram]
