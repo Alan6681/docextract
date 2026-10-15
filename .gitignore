@@ -17,3 +17,6 @@ samples_private/
 outputs/
 .ruff_cache/
 .pytest_cache/
+
+# Ground truth transcribed from copyrighted/private material
+benchmarks/expected/*.md
