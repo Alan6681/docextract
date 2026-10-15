@@ -20,3 +20,11 @@ outputs/
 
 # Ground truth transcribed from copyrighted/private material
 benchmarks/expected/*.md
+benchmarks/review_notes.md
+benchmarks/review_notes.md
+benchmarks/expected_bak/
+benchmarks/expected_old/
+
+# Editor files
+*.swp
+*.swo
